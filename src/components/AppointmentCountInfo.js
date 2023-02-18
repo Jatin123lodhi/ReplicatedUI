@@ -13,7 +13,7 @@ export const AppointmentCountInfo = () => {
         <div className='px-2  text-center'>
             <ul>
                 <li className='text-xl text-gray-600'>02</li>
-                <li className='text-gray-400 text-sm'>Upcoming</li>
+                <li className='text-gray-400 text-sm'>Upcoming5</li>
             </ul>
         </div>
         
